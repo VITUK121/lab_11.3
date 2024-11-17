@@ -1,0 +1,3 @@
+﻿  lab_11.3.cpp
+C:\Users\VITUK\source\repos\lab_11.3\lab_11.3\lab_11.3.cpp(65,9): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  lab_11.3.vcxproj -> C:\Users\VITUK\source\repos\lab_11.3\x64\Debug\lab_11.3.exe
